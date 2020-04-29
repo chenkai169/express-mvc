@@ -1,5 +1,5 @@
 {
-  "name": "express-mvc",
+  "name": "express-ts-mvc",
   "version": "1.0.0",
   "description": "This is a mvc framework base on express",
   "main": "src/index.ts",
