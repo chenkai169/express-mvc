@@ -1,5 +1,5 @@
 {
-  "name": "express-ts-mvc",
+  "name": "express-typescript-mvc",
   "version": "1.0.0",
   "description": "This is a mvc framework base on express",
   "main": "src/index.ts",
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/chenkai169/express-mvc.git"
   },
-  "keywords": [],
+  "keywords": [
+    "express",
+    "mvc",
+    "express-mvc"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
